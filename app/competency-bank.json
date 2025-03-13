@@ -1,0 +1,116 @@
+{   
+        "competency_type": [
+
+            {
+                "core_competency":[
+                    {
+                        "categories":[
+                            {
+                                "category_name":[
+                                    {
+                                        "sub_session1" : {
+                                            "weight": 0.3,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.9
+                                        },
+                                        "sub_session2" : {
+                                            "weight": 0.3,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.3
+                                        },
+                                        "comment" : {
+                                            "total": 1.2,
+                                            "average": 1.2
+                                            }
+                                    }
+                                ]
+                            },
+
+                            {
+                                "category_name":[
+                                    {
+                                        "sub_session1" : {
+                                            "weight": 0.3,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.6
+                                        },
+                                        "sub_session2" : {
+                                            "weight": 0.1,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.4
+                                        },
+                                        "comment" : {
+                                            "total": 1.0,
+                                            "average": 1.0
+                                            }
+                                    }
+                                ]
+                            }
+
+                        ],
+                        "average_of_all_averages": 1
+                    }
+                ]
+
+            },
+
+
+
+
+            {
+                "none_core_competency":[
+                    {
+                        "categories":[
+                            {
+                                "category_name":[
+                                    {
+                                        "sub_session1" : {
+                                            "weight": 0.1,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.3
+                                        },
+                                        "sub_session2" : {
+                                            "weight": 0.1,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.3
+                                        },
+                                        "comment" : {
+                                            "total": 0.7,
+                                            "average": 0.7
+                                            }
+                                    }
+                                ]
+                            },
+
+                            {
+                                "category_name":[
+                                    {
+                                        "sub_session1" : {
+                                            "weight": 0.1,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.1
+                                        },
+                                        "sub_session2" : {
+                                            "weight": 0.1,
+                                            "score_on_scale": [1,2,3,4,5],
+                                            "weight_score": 0.2
+                                        },
+                                        "comment" : {
+                                            "total": 0.3,
+                                            "average": 0.3
+                                            }
+                                    }
+                                ]
+                            }
+
+                        ],
+                        "average_of_all_averages": 1
+                    }
+                ]
+            }
+
+
+
+
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "departent_id": "16023641-e801-45e2-b2f3-649386e4eb52",
+    "created_by": "703fc311-98c0-432b-b935-6415ffb88ce6",
+    "focus_areas": [
+        {
+            "objective": "Grow research enterprise to attract funding",
+            "strategies": {
+                "0": "Complete and deploy [1] eAsset/ [2] SmartConferencing/ [3]Appraisal/ [4]FrontOffice",
+                "1": "Provide Software Quality Assurance services for three external software products",
+                "2": "SQA Collaborations with NITA",
+                "3": "Develop capacities in Web Application Security Testing",
+                "4": "Complete the development and testing of KCAP and pilot in at least [10] schools",
+                "5": "Assemble drone kits to implement an AI-based agriculture solution: [irrigation/ spraying/ etc…]",
+                "6": "Complete research work on the GPS-based asset tracking system and productpilot in the centres vehicles",
+                "7": {"resaerch_area": {
+                                "0": "GraphQL",
+                                "1": "Web Assembly(Wasm)",
+                                "2": "Asterisk with CRBT",
+                                "3": "Laravel",
+                                "4": "API development using Python and further research into back-end and front-end technologies"
+                            },
+                            "Note": " This will result in developing a prototype and article write-up for publication by September 2024. Only group effort is allowed and all group member should be indicated in the KRA form"
+                        }
+                    
+            },
+            "kpi": {
+                "0": "",
+                "1": "",
+                "2": "",
+                "3": ""
+            },
+            "target": {
+                "0": 2,
+                "1": 1,
+                "2": "Yes"
+            },
+            "responsibilty": {
+                "0": "SE Unit",
+                "1": "SE Unit",
+                "2": "IT Unit"
+            }
+        },
+
+        {
+            "objective": "Staff Development",
+            "strategies": "Upgrade the technical knowledge and skills of the R&I team",
+            "kpi": "Number of staff trained",
+            "target": 5,
+            "responsibilty": "Research and Innovation Director"
+        }
+    ]
+}

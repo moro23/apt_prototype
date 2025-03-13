@@ -1,0 +1,18 @@
+{
+    "departent_id": "03a66ca9-3bea-4921-9a93-efa052b8c6bc",
+    "created_by": "5855868c-7541-4100-a915-bda9e2804b2d",
+    "focus_areas": [
+        {
+            "objectives": "Capacity building for all faculty staff",
+            "capacity_building_areas": {
+                "0": "Oracle Database",
+                "1": "Mobile App Development",
+                "2": "AI",
+                "3": "Machine Learning",
+                "4": ""
+            },
+            "mininum_choice": 2,
+            "additonal_note": "Everything staff should entreat this serious and important"
+        }
+    ]
+}
